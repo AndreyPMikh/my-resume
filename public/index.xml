@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Патрушев Андрей Михайлович on Резюме Андрея Патрушева</title>
+    <link>http://localhost:1313/my-resume/</link>
+    <description>Recent content in Патрушев Андрей Михайлович on Резюме Андрея Патрушева</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <atom:link href="http://localhost:1313/my-resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost:1313/my-resume/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-resume/contact/</guid>
+      <description>&lt;h3 id=&#34;свяжитесь-со-мной&#34;&gt;Свяжитесь со мной&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:andrey.mikh@example.com&#34;&gt;andrey.mikh@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Телефон:&lt;/strong&gt; +7 (999) 123-45-67&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/AndreyPMikh&#34;&gt;AndreyPMikh&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Навыки</title>
+      <link>http://localhost:1313/my-resume/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-resume/skills/</guid>
+      <description>&lt;h3 id=&#34;технические-навыки&#34;&gt;Технические навыки&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Языки программирования:&lt;/strong&gt; Python, JavaScript, Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Фреймворки:&lt;/strong&gt; Django, React, Hugo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DevOps:&lt;/strong&gt; Docker, Kubernetes, CI/CD&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Базы данных:&lt;/strong&gt; PostgreSQL, MongoDB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;языки&#34;&gt;Языки&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Русский (родной)&lt;/li&gt;&#xA;&lt;li&gt;Английский (продвинутый)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Образование</title>
+      <link>http://localhost:1313/my-resume/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-resume/education/</guid>
+      <description>&lt;h3 id=&#34;магистр-компьютерных-наук&#34;&gt;Магистр компьютерных наук&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Московский государственный университет&lt;/strong&gt;, Москва&lt;br&gt;&#xA;&lt;em&gt;Сентябрь 2016 – Июнь 2018&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Специализация: Разработка программного обеспечения.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;бакалавр-информационных-технологий&#34;&gt;Бакалавр информационных технологий&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Санкт-Петербургский политехнический университет&lt;/strong&gt;, Санкт-Петербург&lt;br&gt;&#xA;&lt;em&gt;Сентябрь 2012 – Июнь 2016&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Основные курсы: Алгоритмы, Базы данных, Веб-разработка.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Опыт работы</title>
+      <link>http://localhost:1313/my-resume/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-resume/experience/</guid>
+      <description>&lt;h3 id=&#34;старший-разработчик&#34;&gt;Старший разработчик&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Компания ABC&lt;/strong&gt;, Москва&lt;br&gt;&#xA;&lt;em&gt;Июнь 2020 – настоящее время&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработка и поддержка микросервисов.&lt;/li&gt;&#xA;&lt;li&gt;Настройка CI/CD pipelines.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;младший-разработчик&#34;&gt;Младший разработчик&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Компания XYZ&lt;/strong&gt;, Санкт-Петербург&lt;br&gt;&#xA;&lt;em&gt;Сентябрь 2018 – Май 2020&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработка веб-приложений.&lt;/li&gt;&#xA;&lt;li&gt;Оптимизация производительности.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Проекты</title>
+      <link>http://localhost:1313/my-resume/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-resume/projects/</guid>
+      <description>&lt;h3 id=&#34;система-управления-задачами&#34;&gt;Система управления задачами&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Описание:&lt;/strong&gt; Веб-приложение для управления проектами и задачами.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Технологии:&lt;/strong&gt; Django, React, PostgreSQL.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/AndreyPMikh/task-manager&#34;&gt;Ссылка на GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;микросервис-для-обработки-данных&#34;&gt;Микросервис для обработки данных&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Описание:&lt;/strong&gt; Микросервис для обработки и анализа больших данных.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Технологии:&lt;/strong&gt; Go, Kafka, Kubernetes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/AndreyPMikh/data-processor&#34;&gt;Ссылка на GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
