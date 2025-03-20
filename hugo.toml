@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313/my-resume/'  # Замените на ваш GitHub Pages URL
 languageCode = 'ru-RU'
-title = 'Резюме Андрея Патрушева'  
+title = 'Резюме Патрушева Андрея'  
 
 [[module.imports]]
   path = "github.com/discaptive/hugo-discaptive"
