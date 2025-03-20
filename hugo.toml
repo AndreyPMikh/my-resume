@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/my-resume/'  # Замените на ваш GitHub Pages URL
+baseURL = 'http://localhost:1313/my-resume/'  # GitHub Pages URL
 languageCode = 'ru-RU'
 title = 'Резюме Патрушева Андрея Михайловича'  
 
