@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Патрушев Андрей Михайлович on Резюме Патрушева Андрея Михайловича</title><link>http://localhost:1313/my-resume/</link><description>Recent content in Патрушев Андрей Михайлович on Резюме Патрушева Андрея Михайловича</description><generator>Hugo</generator><language>ru-RU</language><atom:link href="http://localhost:1313/my-resume/index.xml" rel="self" type="application/rss+xml"/><item><title>Контакты</title><link>http://localhost:1313/my-resume/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my-resume/contact/</guid><description>&lt;h3 id="свяжитесь-со-мной">Свяжитесь со мной&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Email:&lt;/strong> &lt;a href="mailto:andrey.mikh@example.com">andrey.mikh@example.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Email:&lt;/strong> &lt;a href="mailto:andrey@example.com">andrey@example.com&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Телефон:&lt;/strong> +7 (999) 123-45-67&lt;/li>
 &lt;li>&lt;strong>GitHub:&lt;/strong> &lt;a href="https://github.com/AndreyPMikh">AndreyPMikh&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Навыки</title><link>http://localhost:1313/my-resume/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my-resume/skills/</guid><description>&lt;h3 id="технические-навыки">Технические навыки&lt;/h3>
@@ -16,37 +16,17 @@
 &lt;li>Английский (продвинутый)&lt;/li>
 &lt;/ul></description></item><item><title>Образование</title><link>http://localhost:1313/my-resume/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my-resume/education/</guid><description>&lt;h3 id="магистр-компьютерных-наук">Магистр компьютерных наук&lt;/h3>
 &lt;p>&lt;strong>Московский государственный университет&lt;/strong>, Москва&lt;br>
-&lt;em>Сентябрь 2016 – Июнь 2018&lt;/em>&lt;/p>
+&lt;em>Сентябрь 2021 – Июнь 2025-&lt;/em>&lt;/p>
 &lt;ul>
-&lt;li>Специализация: Разработка программного обеспечения.&lt;/li>
-&lt;/ul>
-&lt;h3 id="бакалавр-информационных-технологий">Бакалавр информационных технологий&lt;/h3>
-&lt;p>&lt;strong>Санкт-Петербургский политехнический университет&lt;/strong>, Санкт-Петербург&lt;br>
-&lt;em>Сентябрь 2012 – Июнь 2016&lt;/em>&lt;/p>
+&lt;li>Специализация: Программная инженерия.&lt;/li>
+&lt;/ul></description></item><item><title>Опыт работы</title><link>http://localhost:1313/my-resume/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my-resume/experience/</guid><description>&lt;h3 id="разработчик">Разработчик&lt;/h3>
+&lt;p>&lt;strong>Компания ABC&lt;/strong>, Йошкар-Ола
+&lt;em>Июнь 2023 – настоящее время&lt;/em>&lt;/p>
 &lt;ul>
-&lt;li>Основные курсы: Алгоритмы, Базы данных, Веб-разработка.&lt;/li>
-&lt;/ul></description></item><item><title>Опыт работы</title><link>http://localhost:1313/my-resume/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my-resume/experience/</guid><description>&lt;h3 id="старший-разработчик">Старший разработчик&lt;/h3>
-&lt;p>&lt;strong>Компания ABC&lt;/strong>, Москва&lt;br>
-&lt;em>Июнь 2020 – настоящее время&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>Разработка и поддержка микросервисов.&lt;/li>
-&lt;li>Настройка CI/CD pipelines.&lt;/li>
-&lt;/ul>
-&lt;h3 id="младший-разработчик">Младший разработчик&lt;/h3>
-&lt;p>&lt;strong>Компания XYZ&lt;/strong>, Санкт-Петербург&lt;br>
-&lt;em>Сентябрь 2018 – Май 2020&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>Разработка веб-приложений.&lt;/li>
-&lt;li>Оптимизация производительности.&lt;/li>
+&lt;li>Разработка и поддержка БД&lt;/li>
 &lt;/ul></description></item><item><title>Проекты</title><link>http://localhost:1313/my-resume/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my-resume/projects/</guid><description>&lt;h3 id="система-управления-задачами">Система управления задачами&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Описание:&lt;/strong> Веб-приложение для управления проектами и задачами.&lt;/li>
 &lt;li>&lt;strong>Технологии:&lt;/strong> Django, React, PostgreSQL.&lt;/li>
 &lt;li>&lt;a href="https://github.com/AndreyPMikh/task-manager">Ссылка на GitHub&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="микросервис-для-обработки-данных">Микросервис для обработки данных&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Описание:&lt;/strong> Микросервис для обработки и анализа больших данных.&lt;/li>
-&lt;li>&lt;strong>Технологии:&lt;/strong> Go, Kafka, Kubernetes.&lt;/li>
-&lt;li>&lt;a href="https://github.com/AndreyPMikh/data-processor">Ссылка на GitHub&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
